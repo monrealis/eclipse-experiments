@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>plugin1</groupId>
 	<artifactId>plugin1</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0.qualifier</version>
 	<packaging>eclipse-plugin</packaging>
 
 	<build>
@@ -20,4 +20,12 @@
 	<properties>
 		<tycho-version>0.26.0</tycho-version>
 	</properties>
+
+	<repositories>
+		<repository>
+			<id>eclipse-neon</id>
+			<url>http://download.eclipse.org/releases/neon</url>
+			<layout>p2</layout>
+		</repository>
+	</repositories>
 </project>
