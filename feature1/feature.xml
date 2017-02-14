@@ -17,7 +17,7 @@
    </license>
 
    <plugin
-         id="test1"
+         id="plugin1"
          download-size="0"
          install-size="0"
          version="0.0.0"
