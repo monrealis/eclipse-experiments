@@ -8,6 +8,7 @@
 
 	<modules>
 		<module>plugin1</module>
+		<module>fragment1</module>
 		<module>feature1</module>
 		<module>site1</module>
 	</modules>
